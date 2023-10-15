@@ -5,7 +5,7 @@ import {
   generateIntegerExample,
   generateNumberExample,
   generateBooleanExample,
-} from './index';
+} from './generateShemaObject';
 
 (function () {
   'use strict';
